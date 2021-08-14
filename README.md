@@ -22,4 +22,4 @@ a simple event bus in golang
 	pubFunc(7)
 
 ```
-For more details,see [testfile](https://github.com/Jun10ng/goeventbus/blob/master/bus_test.go)
+For more details,see [testfile](https://github.com/ijoywan/eventbus/blob/master/bus_test.go)
