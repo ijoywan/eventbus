@@ -1,4 +1,4 @@
-module eventbus
+module github.com/ijoywan/eventbus
 
 go 1.16
 
